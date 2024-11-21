@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "goit-pythonweb-hw-03"
+version = "0.1.0"
+description = "Fullstack Web Development with Python - Homework 3"
+authors = ["Mykola Podopryhora <m.podopryhora@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+Jinja2 = "^3.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
